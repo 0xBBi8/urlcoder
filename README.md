@@ -14,3 +14,12 @@ A lightweight Python3 CLI tool to **URL-encode** and **URL-decode** strings dire
 1. Clone the repo or download the script:
    ```bash
    git clone https://github.com/0xBBi8/urlcode.py.git
+
+## 🧪 Usage (Quick Example)
+
+```bash
+# Encode a string
+python3 urlencode.py -e "hello world!"
+
+# Decode a string
+python3 urlencode.py -d "hello%20world%21"
