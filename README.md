@@ -19,7 +19,7 @@ A lightweight Python3 CLI tool to **URL-encode** and **URL-decode** strings dire
 
 ```bash
 # Encode a string
-python3 urlencode.py -e "hello world!"
+python3 urlcode.py -e "hello world!"
 
 # Decode a string
-python3 urlencode.py -d "hello%20world%21"
+python3 urlcode.py -d "hello%20world%21"
