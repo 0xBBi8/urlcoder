@@ -1,4 +1,4 @@
-# 🔐 urlencode.py
+# 🔐 urlcode.py
 
 A lightweight Python3 CLI tool to **URL-encode** and **URL-decode** strings directly from your terminal.
 
